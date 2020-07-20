@@ -1,5 +1,5 @@
 {
-  "name": "furious/skeleton",
+  "name": "furious/api-skeleton",
   "type": "project",
   "license": "MIT",
   "require": {
