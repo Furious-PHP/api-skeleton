@@ -1,4 +1,5 @@
-## Furious
+## Furious API Skeleton
+
 Micro framework for PHP 7.4+
 
-Contain Cycle ORM and Symfony console component
+[Documentation](https://github.com/Furious-PHP/docs)
